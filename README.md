@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Anjanikumar Choubey! 👋
 
-<!--
-**Anjanikumar98/Anjanikumar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **final year student** with a passion for building impactful software solutions.  
+Currently diving deep into **Java** and **Flutter**, I'm eager to solve real-world problems and create innovative apps that make a difference.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Interests
+
+- **Languages:** Java, Dart
+- **Frameworks:** Flutter
+- **Interests:** Mobile App Development, Backend Systems, Open Source
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Flutter techniques for beautiful, high-performance apps
+- Java for scalable backend development
+- Best practices in software design and architecture
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanikumar-choubey)
+
+---
+
+## ✨ About Me
+
+- 💡 Always curious to learn and experiment with new technologies
+- 🤝 Love collaborating on open source and student projects
+- 🌍 Inspired to use tech for positive change
+
+*"Code is the canvas, creativity is the color."*
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories or connect with me. Let's build something awesome together!
