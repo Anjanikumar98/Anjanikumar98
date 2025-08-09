@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anjanikumar Choubey  
+# Hi there, I'm Anjanikumar Choubey  
 
 🎓 **Final-year Engineering Student** | 💻 **Java & Flutter Developer** | 🤖 AI & ML Enthusiast | 🚀 Passionate about solving real-world problems with technology  
 
