@@ -1,40 +1,50 @@
-# Hi there, I'm Anjanikumar Choubey! 👋
+# 👋 Hi there, I'm Anjanikumar Choubey  
 
-I'm a **final year student** with a passion for building impactful software solutions.  
-Currently diving deep into **Java** and **Flutter**, I'm eager to solve real-world problems and create innovative apps that make a difference.
-
----
-
-## 🚀 Skills & Interests
-
-- **Languages:** Java, Dart
-- **Frameworks:** Flutter
-- **Interests:** Mobile App Development, Backend Systems, Open Source
+🎓 **Final-year Engineering Student** | 💻 **Java & Flutter Developer** | 🤖 AI & ML Enthusiast | 🚀 Passionate about solving real-world problems with technology  
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Skills & Technologies  
 
-- Advanced Flutter techniques for beautiful, high-performance apps
-- Java for scalable backend development
-- Best practices in software design and architecture
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
 
----
+**Frameworks & Tools:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanikumar-choubey)
-
----
-
-## ✨ About Me
-
-- 💡 Always curious to learn and experiment with new technologies
-- 🤝 Love collaborating on open source and student projects
-- 🌍 Inspired to use tech for positive change
-
-*"Code is the canvas, creativity is the color."*
+**Interests:** 📱 Mobile App Development | 🖥 Backend Systems | 🌐 Open Source  
 
 ---
 
-Thanks for stopping by! Feel free to check out my repositories or connect with me. Let's build something awesome together!
+## 📚 Currently Learning  
+
+- 🎨 **Advanced Flutter techniques** for high-performance, beautiful apps  
+- ⚙️ **Java for scalable backend development**  
+- 🏗 **Clean Architecture** & best practices in software design  
+
+---
+
+## ✨ About Me  
+
+- 💡 **Curious Learner:** Always exploring new tools, frameworks, and technologies  
+- 🤝 **Collaborator:** Love working on open-source and student projects  
+- 🌍 **Purpose-Driven:** Aim to build solutions that have a positive global impact  
+
+> *"Code is the canvas; creativity is the color."*  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjanikumar%20Choubey-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanikumar-choubey)  
+
+---
+
+Thanks for visiting my profile! 🚀  
+Feel free to explore my repositories or connect — let’s build something awesome together.  
+
+
+
